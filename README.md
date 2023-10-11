@@ -21,3 +21,13 @@ This project is a real-time color detection system that can identify the color o
 * Now run the application in your IDE.
 #### NOTE: You can refer to `hsvcolorpicker.py` file for adjusting Color Ranges. 
 ### Output 
+*_Green_*
+![Screenshot (263)](https://github.com/SHAIK-AFSANA/colordetection/assets/146961917/9c680530-84c4-4e1a-b842-b0823ae5e939)
+*_Orange_*
+![Screenshot (264)](https://github.com/SHAIK-AFSANA/colordetection/assets/146961917/e1e2ba3f-5bf3-4bfb-9202-b6b09ad78d16) 
+*_Violet_*
+![Screenshot (268)](https://github.com/SHAIK-AFSANA/colordetection/assets/146961917/88e86f12-dc32-4f86-90a4-be629f866c6a) 
+*_Blue_*
+![Screenshot (265)](https://github.com/SHAIK-AFSANA/colordetection/assets/146961917/4e482413-f70f-449e-9709-2dad57923c17)
+
+
