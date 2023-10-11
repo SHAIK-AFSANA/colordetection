@@ -1,6 +1,6 @@
 # Color Detection
 ### Overview
-This project is a real-time color detection system that can identify the color of the pixel at the center of the webcam feed. It's a simple and straightforward application to explore real-time color analysis at a pixel level.
+This project is a small yet powerful application that allows users to identify the precise color of the pixel at the center of the webcam feed. This project is a practical introduction to computer vision and real-time image analysis.
 ### Features
 * **Center Pixel Color Detection:** Analyzes the color of the pixel at the center of the webcam feed in real-time.
 * **Live Webcam Feed:** Displays the webcam feed on the screen.
